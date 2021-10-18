@@ -37,7 +37,7 @@ Week 2. Model Serving: patterns and infrastructure
 
 [Docker Swarm](https://docs.docker.com/engine/swarm/)
 
-[Kubeflow]https://www.kubeflow.org/)
+[Kubeflow](https://www.kubeflow.org/)
 
 # Online Inference:
 [Batch vs. Online Inference](https://mlinproduction.com/batch-inference-vs-online-inference/)
@@ -55,7 +55,7 @@ Week 3. Model Management and Delivery
 # Experiment Tracking and Management:
 [Tracking](https://towardsdatascience.com/machine-learning-experiment-tracking-93b796e501b0)
 
-(Management](https://neptune.ai/blog/experiment-management)
+[Management](https://neptune.ai/blog/experiment-management)
 
 # Notebooks:
 [nbconvert](https://nbconvert.readthedocs.io/)
@@ -84,6 +84,7 @@ Week 3. Model Management and Delivery
 [DVC](https://dvc.org/)
 
 [ML-Metadata](https://blog.tensorflow.org/2021/01/ml-metadata-version-control-for-ml.html])
+
 # Tooling for Teams:
 [Image Summaries](https://www.tensorflow.org/tensorboard/image_summaries)
 
